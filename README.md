@@ -27,6 +27,10 @@
  - Services: **src/main/java/com/rest/services**
  - Controllers: **src/main/java/com/rest/controllers**
 
+:pushpin: ER Diagram
+
+![ER Diagram](src/main/resources/ER-Diagram.png)
+
 :heavy_check_mark: Integrate the services into your previous project, invoking them using the support offered by Spring Boot
 
  - **src/main/java/com/gomoku/callservices**
