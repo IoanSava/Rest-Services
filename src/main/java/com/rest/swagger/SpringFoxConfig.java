@@ -31,7 +31,7 @@ public class SpringFoxConfig {
     private ApiInfo apiInfo() {
         return new ApiInfo(
                 "Gomoku REST Services",
-                "REST services for comunicating with the database which contains information about Gomoku games.",
+                "REST services for communicating with the database which contains information about Gomoku games.",
                 "1.0",
                 "Terms of service",
                 new Contact("Ioan Sava", "www.mywebsite.com", "ioan.sava28@gmail.com"),

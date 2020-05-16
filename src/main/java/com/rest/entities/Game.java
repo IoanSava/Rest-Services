@@ -1,7 +1,5 @@
 package com.rest.entities;
 
-import io.swagger.annotations.ApiModel;
-import io.swagger.annotations.ApiModelProperty;
 import lombok.*;
 
 import javax.persistence.*;
